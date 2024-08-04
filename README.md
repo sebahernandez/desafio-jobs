@@ -11,11 +11,11 @@ Este proyecto es el backend para la plataforma Soft Jobs, una aplicación que ay
 
 1. Clona el repositorio:
 
-   ```bash
-   git clone https://github.com/tu-usuario/soft-jobs-backend.git
-   cd soft-jobs-backend
-   npm install
-   ```
+```bash
+git clone https://github.com/tu-usuario/soft-jobs-backend.git
+cd soft-jobs-backend
+npm install
+```
 
 2. Base de datos:
 
