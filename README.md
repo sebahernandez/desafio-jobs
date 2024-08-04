@@ -19,12 +19,14 @@ Este proyecto es el backend para la plataforma Soft Jobs, una aplicación que ay
 
 2. Base de datos:
 
+```bash
 DB_USER=tu_usuario_db
 DB_HOST=localhost
 DB_NAME=softjobs
 DB_PASSWORD=tu_password_db
 DB_PORT=5432
 JWT_SECRET=tu_clave_secreta
+```
 
 3. Creación de tablas en PostgreSQL
 
